@@ -41,7 +41,7 @@ A high-performance, memory-efficient Arkanoid game with modern GUI design, built
 
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/yourusername/arkanoid-game.git
+git clone https://github.com/eminsk/arkanoid-game.git
 cd arkanoid-game
 ```
 
